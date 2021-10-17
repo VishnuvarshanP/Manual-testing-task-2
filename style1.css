@@ -1,0 +1,71 @@
+  * {
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+} 
+
+
+body{
+    background: url('./bgcolor2.jpg');
+    background-size:cover;
+    color:#fff;
+} 
+
+.register{
+    left: 20px;
+    position: absolute;
+    text-align: center;
+}
+.register h1{
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.register p{
+font-size: 15px;
+margin: 15px 0;
+padding: 1.1px ;
+} 
+
+ .register input{
+    font-size:10px;
+    padding: 10px 10px;
+    width: 100%;
+    border:0;
+    border-radius: 5px;
+    outline: none;
+}
+
+
+
+.register button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border:0;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.register button:hover{
+    color: black;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
